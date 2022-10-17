@@ -1,0 +1,19 @@
+.bo{
+    border-left: 1px solid black;
+}
+img{
+   width: auto;
+}
+/* .su{
+    color: green;
+   padding: 20;
+} */
+.su:hover{
+    background-color: green;
+    color: white;
+
+}
+/* .r:hover{
+    background-color: green;
+   
+} */

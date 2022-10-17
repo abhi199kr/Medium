@@ -1,0 +1,12 @@
+.bg1g{
+    background-color: #34a245;
+}
+.bg2{
+    background-color: #b6e5a4;
+}
+img{
+    max-width: 75%;
+    /* vertical-align: middle;
+    display: inline-block; */
+    height: 300px
+}

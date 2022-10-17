@@ -1,0 +1,16 @@
+.para{
+    padding: 50px;
+}
+.bl{
+    border-left: solid 1px black;
+    padding: 50px;
+}
+.ev{
+    padding: 100px;
+    font-weight: 0;
+}
+.b{
+    font-weight: 300;
+   
+    
+}

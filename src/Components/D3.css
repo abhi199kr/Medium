@@ -1,0 +1,12 @@
+.fw{
+    font-weight: 10vw;
+    font-size: larger;
+    
+}
+.ih{
+    width: 100px;
+    height: 120px;
+}
+.b{
+    border-left: solid 2px white;
+}
